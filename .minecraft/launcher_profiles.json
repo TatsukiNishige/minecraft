@@ -1,0 +1,71 @@
+{
+  "analyticsFailCount" : 0,
+  "analyticsToken" : "392f4bdde25e0c1a23dab97ea9f9004b",
+  "authenticationDatabase" : {
+    "92c67c67caa747d42626e47fb9acce21" : {
+      "accessToken" : "74939e843ab2434f9dbafe3133cf722f",
+      "profiles" : {
+        "2f092656a48f4af6b39d0d180e539ae9" : {
+          "displayName" : "VhermineV"
+        }
+      },
+      "properties" : [],
+      "username" : "x13x_heart@yahoo.co.jp"
+    }
+  },
+  "clientToken" : "d8e233dbdb2a1e74371da20a8c26bc09",
+  "launcherVersion" : {
+    "format" : 21,
+    "name" : "2.1.3674",
+    "profilesFormat" : 2
+  },
+  "profiles" : {
+    "b9cefe9cb180d05b3df72247b545cabd" : {
+      "created" : "2019-07-20T17:05:10.673Z",
+      "icon" : "Furnace",
+      "lastUsed" : "2019-07-23T10:55:39.968Z",
+      "lastVersionId" : "1.14.3",
+      "name" : "",
+      "type" : "custom"
+    },
+    "e641d762bc312d7cd32049e1d3b17650" : {
+      "icon" : "Grass",
+      "lastUsed" : "2019-07-20T17:02:20.875Z",
+      "lastVersionId" : "latest-release",
+      "name" : "",
+      "type" : "latest-release"
+    },
+    "f0d8c92385415a1cb819fcbb80f78a2c" : {
+      "icon" : "Crafting_Table",
+      "lastUsed" : "1970-01-01T00:00:00.000Z",
+      "lastVersionId" : "latest-snapshot",
+      "name" : "",
+      "type" : "latest-snapshot"
+    },
+    "forge" : {
+      "lastUsed" : "2019-07-15T07:10:13.083Z",
+      "lastVersionId" : "1.14.3-forge-27.0.51",
+      "name" : "forge",
+      "type" : "custom"
+    }
+  },
+  "selectedUser" : {
+    "account" : "92c67c67caa747d42626e47fb9acce21",
+    "profile" : "2f092656a48f4af6b39d0d180e539ae9"
+  },
+  "settings" : {
+    "channel" : "release",
+    "crashAssistance" : true,
+    "enableAdvanced" : false,
+    "enableAnalytics" : true,
+    "enableHistorical" : false,
+    "enableReleases" : true,
+    "enableSnapshots" : false,
+    "keepLauncherOpen" : false,
+    "locale" : "ja",
+    "profileSorting" : "ByLastPlayed",
+    "showGameLog" : false,
+    "showMenu" : false,
+    "soundOn" : false
+  }
+}

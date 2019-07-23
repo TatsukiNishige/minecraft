@@ -1,0 +1,22 @@
+﻿Native Launcher Version: 432
+Operating System: Windows 7 Professional
+Application Data directory: C:\Users\hermine\AppData\Roaming\.minecraft
+Executable Path: MinecraftLauncher.exe
+App Directory dir: D:\Program Files\Minecraft Launcher
+Game data directory: C:\Users\hermine\AppData\Roaming\.minecraft
+Launcher dir: D:\Program Files\Minecraft Launcher\game
+Java dir: D:\Program Files\Minecraft Launcher\runtime\jre-x64
+TmpDir dir: C:\Users\hermine\AppData\Local\Temp\MinecraftLauncher
+x64: 1
+Using configuration at path: C:\Users\hermine\AppData\Roaming\.minecraft\launcher_profiles.json
+Deciding on update with strategy 2 and clientID 212
+We should change launcher-bootstrap from 432 to 455
+launcher-bootstrap update is needed.
+Deciding on update with strategy 2 and clientID 212
+We should change launcher-core from 2.1.3674 to 2.1.5387
+launcher-core update is needed.
+Deciding on update with strategy 2 and clientID 212
+Version of jre-x64 is current, no action is necessary.
+Bootstrap is current
+Updating bootstrap...
+Started application tools\NativeUpdater.exe MinecraftLauncher.exe MinecraftLauncher.exe.tmp --nativeLauncherVersion 432

@@ -1,0 +1,11 @@
+[19:56:22] [Client thread/INFO]: Setting user: VhermineV
+[19:56:26] [Client thread/WARN]: Skipping bad option: lastServer:
+[19:56:26] [Client thread/INFO]: LWJGL Version: 3.2.2 build 10
+[19:56:32] [Client thread/INFO]: Narrator library for x64 successfully loaded
+[19:56:32] [Client thread/INFO]: Built for minecraft version 1.14.3
+[19:56:39] [Client thread/INFO]: OpenAL initialized.
+[19:56:39] [Client thread/INFO]: Sound engine started
+[19:56:40] [Client thread/INFO]: Created: 1024x512 textures-atlas
+[19:56:40] [Client thread/INFO]: Created: 256x256 textures/particle-atlas
+[19:56:40] [Client thread/INFO]: Created: 256x256 textures/painting-atlas
+[19:56:40] [Client thread/INFO]: Created: 256x128 textures/mob_effect-atlas
